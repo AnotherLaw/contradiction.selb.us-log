@@ -1,5 +1,6 @@
 exclude:
   - config.rb
   - CNAME
+  - README.md
 permalink: /log/:year/:month/:day/:title/
 url: http://contradiction.selb.us/log/
