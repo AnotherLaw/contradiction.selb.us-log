@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-gb">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>The Contradiction {% if page.title %}| {{ page.title }} {% else %} {% endif %}</title>
+  <link rel="alternate" href="atom.xml" title="{{ site.url }}" type="application/atom+xml" />
+  <link href="{{ site.url }}css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <link href="{{ site.url }}css/print.css" media="print" rel="stylesheet" type="text/css" />
+  <!--[if lt IE 8]>
+      <link href="/log/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}css/site.css" />
+</head>
+
+<body>
+<div id="container">
+ <div id="header">
+  <h1 class="title"><a href="/log/index.html">The Contradiction</a></h1>
+  <div class="box"><strong>Web development, authoring and other rambles.</strong></div>
+ </div>
+
+ <div id="content">
+   {{ content }}
+ </div>
+
+<div id="footer">
+  <hr />
+  <p>&copy; 2012 Minh Nguyen. Created with <a href="https://github.com/mojombo/jekyll">Jekyll</a>.</p>
+ </div>
+</div>
+
+</body>
+</html>

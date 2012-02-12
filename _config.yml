@@ -1,0 +1,5 @@
+exclude:
+  - config.rb
+  - CNAME
+permalink: /log/:year/:month/:day/:title/
+url: http://contradiction.selb.us/log/
