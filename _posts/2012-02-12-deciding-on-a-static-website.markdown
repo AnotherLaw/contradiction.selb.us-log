@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-author: Law
-=======
 author: Minh Nguyen
->>>>>>> posts
 title: Deciding on a static website.
 ---
 Welcome to my new log, aimed at focusing upon the workings of various things, mostly involving web design and development. As well as that, I may write upon some subjects about the world which might pique one's interest and some of my various projects that I've done over the past few years.
