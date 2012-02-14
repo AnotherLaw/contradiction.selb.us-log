@@ -36,3 +36,6 @@ h1.title a:hover { text-decoration: underline; }
 a:link { color: #5ba3de; }
 /* line 77, ../../_sass/site.sass */
 a:visited { color: #6db1e8; }
+
+/* line 80, ../../_sass/site.sass */
+img { text-align: center; }

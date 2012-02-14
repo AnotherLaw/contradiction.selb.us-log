@@ -4,4 +4,7 @@ author: Minh Nguyen
 title: The start of Mango 
 ---
 [Mango](http://mango.blender.org) will soon be beginning.
-![The Mango Logo](/log/img/{{ post.url }}/mango-logo.png)
+
+![The Mango Logo](/log/img/2012/02/15/mango-logo.png)
+
+
