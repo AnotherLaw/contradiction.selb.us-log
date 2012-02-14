@@ -3,4 +3,5 @@ layout: post
 author: Minh Nguyen
 title: The start of Mango 
 ---
-Mango is a film.
+[Mango](http://mango.blender.org) will soon be beginning.
+![The Mango Logo](/log/img/{{ post.url }}/mango-logo.png)
