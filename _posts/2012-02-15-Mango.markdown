@@ -11,7 +11,12 @@ This makes this the fourth open film by Blender, specifically the Blender Instit
 
 Blender has been growing at a steady rate, a popular 3D package for arists. The online community is to thank for it, along with 3D artists, developers, studios and universities globally. Blender will be the first to bring together various parts of technology that renowned studios have opened up in recent times.
 
-![Concept: Near apocolyptic world](/log/img/2012/02/15/conceptart-01.png)
+![Concept: Near apocolyptic Earth](/log/img/2012/02/15/conceptart-01.png)
+
+There will be a team of six artists and three developers who will be working on the visual effects over about half a year, and filming will be done in Amsterdam. The target for the premiere is September 2012.
+
+![Concept: A man looks upon the world from above](/log/img/2012/02/15/conceptart-02.png)
 
 Media press: [Blender Foundation](http://www.blender.org)<br />
-Artwork: David Revoy, Blender Foundation
+Artwork: David Revoy, Blender Foundation<br />
+[Project Mango](http://mango.blender.org)<br />
