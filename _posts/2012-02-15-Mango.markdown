@@ -7,7 +7,7 @@ title: The start of Mango
 
 ![The Mango Logo](/log/img/2012/02/15/mango-logo.png)
 
-This makes this the fourth open film by Blender, specifically the Blender Institute in Ansterdam. As such, the film is highly anticipated, due to the success that the previous films have generated. Experts from the film industry have been interested in these projects, including consultants from Weta, Rhytm & Hues, and Filmmore.
+This makes this the fourth open film by Blender, specifically the Blender Institute in Amsterdam. As such, the film is highly anticipated, due to the success that the previous films have generated. Experts from the film industry have been interested in these projects, including consultants from Weta, Rhytm & Hues, and Filmmore.
 
 Blender has been growing at a steady rate, a popular 3D package for arists. The online community is to thank for it, along with 3D artists, developers, studios and universities globally. Blender will be the first to bring together various parts of technology that renowned studios have opened up in recent times.
 
