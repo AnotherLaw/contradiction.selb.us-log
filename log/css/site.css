@@ -38,4 +38,4 @@ a:link { color: #5ba3de; }
 a:visited { color: #6db1e8; }
 
 /* line 80, ../../_sass/site.sass */
-img { text-align: center; }
+img { margin-left: auto; margin-right: auto; }
