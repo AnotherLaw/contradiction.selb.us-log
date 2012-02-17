@@ -1,5 +1,6 @@
 ---
 title: The problem with my site.
+layout: post
 author: Minh Nguyen
 ---
 There are many issues considering my site.
