@@ -10,3 +10,5 @@ The idea that a little thing said could change one's life can be applied to the 
 It truly is amazing how much we can do, even as individuals.
 
 I've already created a little mockup of a menu using [Flashpunk](http://flashpunk.net), and I'll work on it from there, depending upon the workload. This is one of those few projects where I'm hoping I'll get it done for sure. I don't like having to abandon anything.
+
+There's no true estimate of when it'll be done. Maybe six months. Maybe two years. Whatever the time is, it should be done. Not merely started.
