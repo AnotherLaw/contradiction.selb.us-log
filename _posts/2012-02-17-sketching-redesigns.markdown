@@ -14,19 +14,19 @@ The sites in question should be able to be used by all manners of web browsers, 
 ##The Sketchy Stuff
 A few days ago, I came up with a couple of sketches to formulate my design for two sites:
 
-- [My main portfolio site](/log/img/2012/02/17/portfolio-before.png) and...
-- [My webcomic site](/log/img/2012/02/17/webcomic-before.png).
+- [My main portfolio site](/) and...
+- [My webcomic site](/adbt).
 
 For the former, it may be necessary in the long term, whereas the webcomic site requires immediate attention, due to being only in partial progress in design. It's probably one of the more weaker points of my work.
 
 ###The Webcomic
-![Sketch of my new webcomic's site](/log/img/2012/02/17/webcomic-sketch.png)
+![Sketch of my new webcomic's site](/log/img/2012/02/17/webcomic-sketch.jpg)
 
 For this sketch, I took some influence from another webcomic's site, [Lackadaisy](http://lackadaisy.foxprints.com) in with it's excellent layout, particularly the front page with two column layout. News as it updates shows up on the left column, and the second column will contain a thumbnail of the current comic, as well as some miscellaneous content, like ongoing themes (which will be a main driving force in said comic).
 
 Jekyll should be able to distinguish and display articles appropriately with the use of YAML tags, either comic or news respectively. I suppose I could do the same with other pages for sorting.
 
 ###The Portfolio
-![The sketch for my portfolio site](/log/img/2012/02/17/portfolio-sketch.png)
+![The sketch for my portfolio site](/log/img/2012/02/17/portfolio-sketch.jpg)
 
 This site needed additonal inspiration in order to come up with the layout that I've done here. As such, it is only an early draft and may be changed over time. The singular column allows for (what I believe to be) a good load of focus on the entries themselves. Dividers will be used within to divide as such the entries, meaning that I do not have to rely upon the &lt;table&gt; tag, which is really only meant for tabular data.
